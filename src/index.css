@@ -1,0 +1,3 @@
+body { margin: 0; font-family: 'Poppins', sans-serif; background: linear-gradient(to bottom, #a1c4fd, #c2e9fb); transition: background 0.5s ease; }
+
+.dark body { background: linear-gradient(to bottom, #232526, #414345); color: white; }
